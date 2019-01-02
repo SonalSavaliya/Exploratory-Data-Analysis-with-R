@@ -6,7 +6,7 @@ Link - https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t
 
 ## Description:
 
-This dataset from NYC OpenData website. It contains current job postings available in the City of New York’s official jobs site. It has data from 2013 to 2018. It has 28 columns and 3675 rows.
+This dataset from NYC OpenData website and analyzed it. It contains current job postings available in the City of New York’s official jobs site. It has data from 2013 to 2018. It has 28 columns and 3675 rows.
 
 ## Analysis
 
