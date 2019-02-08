@@ -9,7 +9,7 @@ output: html_document
 require(ggplot2)
 require(tidyverse)
 require(lattice)
-nyc_data = read_csv('NYC_Jobs.csv')
+nyc_data = read_csv('NYC_Jobs_clean.csv')
 nyc_data
 ```
 
