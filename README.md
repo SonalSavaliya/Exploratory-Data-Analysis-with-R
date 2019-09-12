@@ -5,16 +5,15 @@ Link - https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t
 
 ## Description:
 
-This dataset from NYC OpenData website and analyzed it. It contains current job postings available in the City of New York’s official jobs site. It has data from 2013 to 2018. It has 28 columns and 3675 rows.
+I have analyzed this dataset from the NYC OpenData website. It contains current job postings available on the City of New York’s official jobs site. It has data from 2013 to 2018 when I was working on this project. It has 28 columns and 3675 rows.
 
 ## Analysis
 
-Explored most of the variables which were relevant to analysis. After dividing the job categories into IT and Non-IT fields, it is used the variables in relevance to the jobs available. I got to know about what are the salaries paid in 5 boroughs of NYC. What is maximum or minimum etc. 
-Here are the findings - 
-1. Got to know the relationship between Work Location and IT and Non IT Job Opening with graph and explaination. 
-2. Explored the average salary in each locations both maximum and minimum on annual and hourly basis. 
-3. Analysed jobs based on timings - both part-time and full time location wise. 
-4. Explored the relashionship between salary frequency based on location.
+Explored most of the variables which were relevant to the analysis. After dividing the job categories into IT and Non-IT fields, it is used the variables in relevance to the jobs available. The outcomes of the project are as follows: 
+1. The relationship between Work Location and IT and Non-IT Job Opening with graph and explanation. 
+2. Explored the average salary in each location both maximum and minimum on an annual and hourly basis. 
+3. Analyzed jobs are based on timings - both part-time and full-time location wise. 
+4. Explored the relationship between salary frequency based on location. (what the salaries are paid in the 5 boroughs of NYC)
 
 ## Exploratory Analysis: 
 
