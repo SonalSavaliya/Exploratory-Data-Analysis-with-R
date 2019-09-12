@@ -20,12 +20,14 @@ Here are the findings -
 
 * **NYC_Jobs_ORG.csv** - Messy data set which was downloded from OPEN nyc data
 * **NYC_Jobs_clean.csv** - Clean data set after preprocessing the original data
-* **project1_exploratory_analysis.Rmd** - R markdown file with exploratory analysis with detail explaination
-* **Project_report.docx** - Exploratory Analysis report
-* **project1_exploratory_analysis.html** - HTML report file, generated from rmd file
+* **Exploratory_analysis.Rmd** - R markdown file with exploratory analysis with detail explaination
+* **Exploratory_analysis_report.pdf** - Exploratory Analysis report
+* **Exploratory_analysis (knitted).pdf** - PDF report file, generated from rmd file
 
 ## Predictive Analysis (KNN Classification):
 
 * **NYC_Jobs_2.csv** - Clean data 
-* **project_2.Rmd** - Built KNN classification model
-* **Project_2.docx** - Predictive analysis report, explained result in detail
+* **Knn_classification.Rmd** - Built KNN classification model
+* **KNN_prediction_report.pdf** - Predictive analysis report, explained result in detail
+* **Knn_classification(knitted).pdf** - PDF report file, generated from rmd file
+
