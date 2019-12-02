@@ -32,26 +32,19 @@ The outcomes of the above :
 *    Manhattan has a maximum annual salary and a maximum hourly salary, and the Bronx has a minimum. 
 *    Manhattan and Queens have maximum full-time job openings.
 
-**NYC_Jobs_ORG.csv** - Messy data set which was downloded from OPEN nyc data
-
-**NYC_Jobs_clean.csv** - Clean data set after preprocessing the original data
-
-**Exploratory_analysis.Rmd** - R markdown file with exploratory analysis with detail explaination
-
-**Exploratory_analysis_report.pdf** - Exploratory Analysis report
-
-**Exploratory_analysis (knitted).pdf** - PDF report file, generated from rmd file
+**NYC_Jobs_ORG.csv** - Messy data set which was downloded from OPEN nyc data<br/>
+**NYC_Jobs_clean.csv** - Clean data set after preprocessing the original data<br/>
+**Exploratory_analysis.Rmd** - R markdown file with exploratory analysis with detail explaination<br/>
+**Exploratory_analysis_report.pdf** - Exploratory Analysis report<br/>
+**Exploratory_analysis (knitted).pdf** - PDF report file, generated from rmd file<br/>
 
 
 ## Prediction analysis (KNN Classification):
 
 KNN classification was implemented to predict the IT and non-IT job opening in nyc.
 
-**NYC_Jobs_2.csv** - Clean data 
-
-**Knn_classification.Rmd** - Built KNN classification model
-
-**KNN_prediction_report.pdf** - Predictive analysis report, explained result in detail
-
-**Knn_classification(knitted).pdf** - PDF report file, generated from rmd file
+**NYC_Jobs_2.csv** - Clean data<br/>
+**Knn_classification.Rmd** - Built KNN classification model<br/>
+**KNN_prediction_report.pdf** - Predictive analysis report, explained result in detail<br/>
+**Knn_classification(knitted).pdf** - PDF report file, generated from rmd file<br/>
 
